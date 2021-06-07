@@ -1,2 +1,0 @@
-# Decoder
-EDA TIPS PROJECT
